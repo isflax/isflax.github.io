@@ -44,9 +44,9 @@ nav a:hover {
     text-decoration: none;
 }
 
-h1 .title {
+h1.title {
     color: #cccccc;
-    font-size: 54px;
+    font-size: 300%;
 }
 
 .vertical-center {
