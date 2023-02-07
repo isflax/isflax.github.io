@@ -1,0 +1,29 @@
+header{
+    padding:3em
+}
+
+body {
+    background-color: rgb(30, 30, 30);
+    font: 1em Georgia, serif;
+    color: #cccccc;
+}
+nav {
+    text-align: center;
+    border-top:#cccccc 1px;
+    border-top-style: solid;
+}
+
+nav a {
+    float:center;
+    padding: 1em;
+    font-weight: bold;
+    text-decoration: none;
+    color: #cccccc;
+}
+
+nav a:hover{
+    color:#303030;
+    background-color:#cccccc;
+    background-size: 2em;
+}
+h1 .title
