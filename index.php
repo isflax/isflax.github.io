@@ -16,9 +16,9 @@
 
         <nav>
             <p>
-                <a href="1.html">Hovno</a>
-                <a href="2.html">Prdel</a>
-                <a href="3.html">Zadek</a>
+                <a href="1.html">Hudba</a>
+                <a href="2.html">Portfolio</a>
+                <a href="3.html">Literatura</a>
 
             </p>
         </nav>
