@@ -48,6 +48,7 @@ nav a:hover {
 h1.title {
     color: #cccccc;
     font-size: 300%;
+    margin-bottom: 2em
 }
 
 .vertical-center {
