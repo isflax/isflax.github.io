@@ -1,7 +1,7 @@
 header {
     padding-top: 3em;
     padding-bottom: 0.5em;
-    height: 20vh;
+    /*height: 20vh;*/
 }
 
 a {
@@ -22,6 +22,7 @@ body {
     background-color: rgb(30, 30, 30);
     font: 1em Georgia, serif;
     color: #cccccc;
+    height: 100vh;
 }
 
 nav {
@@ -54,8 +55,8 @@ h1.title {
 .vertical-center {
     margin: 0;
     width: 100vw;
-    height: 80vh;
-    display: flex;
+    height: 69vh;
+    display:flex;
     align-items: center;
     justify-content: center;
 }
