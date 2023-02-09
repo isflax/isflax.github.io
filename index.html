@@ -1,35 +1,18 @@
-<!DOCTYPE html>
-<html lang="cs">
+---
+layout: default
+---
 
-<head>
-    <link rel="stylesheet" href="global.css">
-    <title>Stránečky</title>
-    <meta charset="utf8"> 
-    <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
-</head>
+<div class="posts">
+  {% for post in site.posts %}
+    <article class="post">
 
-<body>
+      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
 
-    <header>
+      <div class="entry">
+        {{ post.excerpt }}
+      </div>
 
-        <h1 class="title"><a href="index.html">Berryho blogísek</a></h1>
-
-        <nav>
-            <p>
-                <a href="1.html">Hudba</a>
-                <a href="2.html">Portfolio</a>
-                <a href="3.html">Literatura</a>
-
-            </p>
-        </nav>
-
-    </header>
-
-
-    <h2 class="vertical-center">Ahojte, tute jsou moje stránky.</h2>
-
-  
-
-</body>
-
-</html>
+      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+    </article>
+  {% endfor %}
+</div>
