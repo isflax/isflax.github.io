@@ -1,11 +1,18 @@
 ---
 layout: post
-title: Ahojte
+title: Název
 ---
 
-## je toto také nadpis?
-# nebo i toto?
+# nepotřebný nadpis
+
+
+## podnadpis
+
+###### a ten je poslední
+
 Nevím, tak uvidíme
+
+Tak.
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
