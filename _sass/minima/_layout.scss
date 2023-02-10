@@ -13,11 +13,12 @@
 .site-title {
   @include relative-font-size(2);
   font-weight: bold;
-  line-height: $base-line-height * $base-font-size * 2.25;
+  line-height: $base-line-height * $base-font-size * 1.5;
   letter-spacing: -1px;
   margin-top: 0em;
   margin-bottom: 0;
   float: left;
+  margin-left: 1em;
 
   &,
   &:visited {
@@ -26,8 +27,8 @@
 }
 
 .site-nav {
-  float: right;
-  line-height: $base-line-height * $base-font-size * 2.25;
+  float: left;
+  line-height: $base-line-height * $base-font-size * 1.5;
 
   .nav-trigger {
       display: none;
@@ -41,9 +42,9 @@
     color: $text-color;
     line-height: $base-line-height;
 
-    // Gaps between nav items, but not on the last one
-    &:not(:last-child) {
-      margin-right: 20px;
+    // Gaps between nav items, but not on the first one
+    &:not(:first-child) {
+      margin-left: 20px;
     }
   }
 
@@ -92,7 +93,7 @@
     .page-link {
       display: block;
       padding: 5px 10px;
-
+          
       &:not(:last-child) {
         margin-right: 0;
       }
