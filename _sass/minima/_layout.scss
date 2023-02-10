@@ -3,18 +3,19 @@
  */
 .site-header {
   border-top: 5px solid $grey-color-dark;
-  border-bottom: 1px solid $grey-color-light;
-  min-height: $spacing-unit * 1.865;
+  /*border-bottom: 1px solid $grey-color-light;*/
+  min-height: $spacing-unit ;
 
   // Positioning context for the mobile navigation icon
-  position: relative;
+  position: relative ;
 }
 
 .site-title {
-  @include relative-font-size(1.625);
-  font-weight: 300;
+  @include relative-font-size(2);
+  font-weight: bold;
   line-height: $base-line-height * $base-font-size * 2.25;
   letter-spacing: -1px;
+  margin-top: 0em;
   margin-bottom: 0;
   float: left;
 
