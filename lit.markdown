@@ -10,8 +10,7 @@ permalink: /literatura/
 	<title>Nevim</title>
 	<style>
 		@font-face {
-			font-family: posterama;
-			src: url(posterama-2001-black.ttf);
+			font-family: "Palatino";
 		}
 		body {
 			margin: 0;
@@ -85,6 +84,7 @@ permalink: /literatura/
 </head>
 <body>
 	<a href="/"><p class="left">←</p></a>
+	
 	<div class="object">
 		<h1>neumim číst</h1>
 	</div>
