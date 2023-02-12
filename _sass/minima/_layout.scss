@@ -27,8 +27,10 @@
 }
 
 .site-nav {
-  float: left;
-  line-height: $base-line-height * $base-font-size * 1.5;
+  float: right;
+  line-height: $base-line-height * $base-font-size * 1;
+  font-size: $base-font-size;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 
   .nav-trigger {
       display: none;
@@ -108,7 +110,7 @@
  * Site footer
  */
 .site-footer {
-  border-top: 1px solid $grey-color-light;
+  border-top: 1px solid $grey-color-dark;
   padding: $spacing-unit 0;
 }
 
@@ -128,6 +130,7 @@
   color: $grey-color;
   margin-left: -$spacing-unit / 2;
   @extend %clearfix;
+  
 }
 
 .footer-col {
@@ -180,6 +183,7 @@
 .page-content {
   padding: $spacing-unit 0;
   flex: 1;
+  
 }
 
 .page-heading {
@@ -193,6 +197,10 @@
 .post-list {
   margin-left: 0;
   list-style: none;
+  border-radius: 25px;
+  background: darken($background-color, 5%);
+  padding: 20px;
+  
 
   > li {
     margin-bottom: $spacing-unit;
