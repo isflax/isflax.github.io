@@ -1,8 +1,13 @@
-<!DOCTYPE html>
-<html lang="en">
+---
+layout: empty
+title: Literatura
+permalink: /literatura/
+---
+
+
 <head>
 	<meta charset="UTF-8">
-	<title>REFRACT</title>
+	<title>Nevim</title>
 	<style>
 		@font-face {
 			font-family: posterama;
@@ -70,11 +75,17 @@
 			96% {text-shadow: -1px 0 0 blue, 1px 0 0 lime;}
 			100% {text-shadow: -1px 0 0 blue, 1px 0 0 lime;}
 		}
+		.left{
+			position: fixed;	
+            top: 0px !important;
+            left: 0px !important;
+			font-size: 8px; 
+    		}
 	</style>
 </head>
 <body>
+	<a href="/"><p class="left">←</p></a>
 	<div class="object">
 		<h1>neumim číst</h1>
 	</div>
 </body>
-</html>
