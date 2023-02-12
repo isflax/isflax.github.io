@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 # The first item of languages will be used as the default.
-languages: ["en", "cz", "cs"]
+language: cs
 
 
 
@@ -39,7 +39,6 @@ github_username:
 theme: minima
 plugins:
   - jekyll-feed
-  - jekyll-multiple-languages-plugin
 
 # Exclude from processing.
 # The following items will not be processed, by default.
