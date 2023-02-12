@@ -242,6 +242,9 @@
 
 .post-content {
   margin-bottom: $spacing-unit;
+  border-radius: 25px;
+  background: darken($background-color, 5%);
+  padding: 20px;
 
   h2 {
     @include relative-font-size(2);

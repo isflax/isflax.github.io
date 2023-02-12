@@ -18,6 +18,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
+# The first item of languages will be used as the default.
+languages: ["en", "cz", "cs"]
+
+
+
 author: Jojo
 title: Jelení příkop
 name: Isflax
@@ -34,6 +39,7 @@ github_username:
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-multiple-languages-plugin
 
 # Exclude from processing.
 # The following items will not be processed, by default.

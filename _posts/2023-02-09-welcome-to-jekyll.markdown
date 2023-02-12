@@ -12,7 +12,7 @@ Myslím si, že to tak je. Pokud nesouhlasíte, vždy můžete navštívit [tuto
 {% highlight Python %}
 count_o = 0
 for o in "nooooooooooooooo":
-  count_o +=1
+  count_o += 1
 
 print(count_o)
 # kolik jsem asi napsal o.
