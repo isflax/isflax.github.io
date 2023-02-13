@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Hudba
+title: ♪♫
 permalink: /hudba/
 ---
 

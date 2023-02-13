@@ -28,8 +28,7 @@ title: Jelení příkop
 name: Isflax
 email: 
 description: >- # this means to ignore newlines until "baseurl:"
-  Dobrí den,
-  tato stránka slouží jako můj pracovní blog, kde si chci uchovávat svůj pokrok v rámci života. Děkuji za pozornost a velmi se těším na naši společnou cestu žytovem.
+
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
