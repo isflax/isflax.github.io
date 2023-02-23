@@ -1,6 +1,6 @@
 ---
 layout: empty
-title: 🕮
+title: 📚
 permalink: /literatura/
 ---
 

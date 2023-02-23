@@ -1,6 +1,6 @@
 ---
 layout: portfolio
-title: CV
+title: 📜
 permalink: /cv/
 ---
 
