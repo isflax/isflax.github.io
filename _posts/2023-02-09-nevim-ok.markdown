@@ -11,8 +11,9 @@ Myslím si, že to tak je. Pokud nesouhlasíte, vždy můžete navštívit [tuto
 
 {% highlight Python %}
 count_o = 0
-for o in "nooooooooooooooo":
-  count_o += 1
+for x in "nooooooooooooooo":
+  if x == "o":
+    count_o += 1
 
 print(count_o)
 # kolik jsem asi napsal o.
@@ -20,4 +21,14 @@ print(count_o)
 
 Jo.
 
+A co třeba
+{% highlight R %}
+count_o <- 0
+for (x in "nooooooooooooooo") {
+  if (x == "o") {count_o <- count_o + 1}
+}
+print(count_o)
+{% endhighlight %}
+
+Tohle nefunguje.
 [no]: http://www.nooo.me/
