@@ -10,9 +10,9 @@ Udělal jsem si stránky, ale vlastně na ně nemám co psát. Ale to nevadí, t
 
 Na stránce v horním menu naleznete:
 
-- mé hudební pytloviny
-- mé literární pytloviny
-- mé blogové pytloviny
-- mé portfolio ke státnicím
+- mé [hudební pytloviny](/hudba)
+- mé [literární pytloviny](/literatura)
+- mé [blogové pytloviny](/blog)
+- mé [portfolio ke státnicím](/cv)
 
-... ale zatím ne.
+... ale zatím tu nic moc nemám.
