@@ -1,7 +1,6 @@
 ---
 layout: page
 title: O
-permalink: /about/
 ---
 
 Dobrí den, tato stránka slouží jako můj pracovní blog, kde si chci uchovávat svůj pokrok v rámci života. Děkuji za pozornost a velmi se těším na naši společnou cestu žytovem.
