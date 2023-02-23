@@ -30,5 +30,6 @@ for (x in "nooooooooooooooo") {
 print(count_o)
 {% endhighlight %}
 
-Tohle nefunguje.
+Tohle zatim nefunguje, ale někdy by mohlo.
+
 [no]: http://www.nooo.me/
