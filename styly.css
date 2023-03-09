@@ -1,0 +1,65 @@
+.ram {
+    border: solid 1px;
+    border-radius: 27.5px;
+    text-align: center;
+    }
+  
+  .basic {
+    display: block;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 1em;
+    margin: 0;
+  }
+  
+  .poetry {
+    display: block;
+    float:center;
+    margin: auto !important;
+    width:fit-content;
+    }
+    
+  .stanza {
+    white-space: pre;
+    page-break-inside:avoid;
+    }
+  
+  .note {
+    text-align:center;
+    font-style:italic;
+    font-size:0.8em;
+    margin: 1em auto 2em;
+    width: 50%;
+    page-break-after:avoid
+    }
+  
+  h2, h3, h4 {
+    page-break-before:always;
+    margin-top: 3em;
+    text-align: center;
+    font-weight:normal;
+    letter-spacing: .2em
+    }
+    
+  h4 {
+    margin-bottom: 4em
+    }
+    
+  .predmluva {
+    font-style:italic
+    }
+    
+  div.predmluva i {
+    letter-spacing:0.25em;
+    margin-right:-0.25em
+    }
+    
+  .part {
+    margin-top: 3em;
+    text-align: center;
+    font-size: .8em;
+    font-weight: bold;
+    page-break-after:avoid
+    }
+    
+  
