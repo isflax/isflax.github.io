@@ -16,3 +16,5 @@ Na stránce v horním menu naleznete:
 - mé [portfolio ke státnicím](/cv)
 
 ... ale zatím tu nic moc nemám.
+
+Možná ještě pokus o relativně ucelenou [**tvorbu Libora Sztemona**](/ls78), tvůrce conlangů z Havířova. Na svých stránkách z přelomu století se kromě umělých jazyků věnoval jazykům obecně. Vytvořil tam mimojiné úvod do tádžikištiny, pracoval na slovnících, popsal Těšínský dialekt „Po našymu“, anebo vytvořil přehled českých autobusů. Stránky jsou utvořeny z fragmentů, které jsou staženy přes `wayback-machine-downloader`, malou aplikaci napsanou v ruby, a přeroutovány a uzpůsobeny novému umístění. Bohužel, ne všechen obsah bylo možné z Wayback Machine dostat.
