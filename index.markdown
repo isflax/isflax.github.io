@@ -14,6 +14,7 @@ Na stránce v horním menu naleznete:
 - mé [literární pytloviny](/literatura)
 - mé [blogové pytloviny](/blog)
 - mé [portfolio ke státnicím](/cv)
+- můj [zpěvník](https://raw.githubusercontent.com/Andrew-Deer/zpevnik/main/Zpevnik.pdf)
 
 ... ale zatím tu nic moc nemám.
 
